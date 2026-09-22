@@ -34,3 +34,14 @@ pnpm-debug.log*
 Thumbs.db
 .vscode/
 .idea/
+
+# Python Testing Tools
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+
+# Python Packages
+*.egg-info/
+*.egg
+
