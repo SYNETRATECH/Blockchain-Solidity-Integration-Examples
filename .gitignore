@@ -50,3 +50,9 @@ Thumbs.db
 /go-client/go-client.exe
 /go-client/go-client
 
+
+# PHP Components
+/php-client/vendor/
+.phpunit.result.cache
+.php-cs-fixer.cache
+
