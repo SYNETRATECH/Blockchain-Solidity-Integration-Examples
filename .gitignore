@@ -45,3 +45,8 @@ Thumbs.db
 *.egg-info/
 *.egg
 
+
+# Go Build Artifacts
+/go-client/go-client.exe
+/go-client/go-client
+
