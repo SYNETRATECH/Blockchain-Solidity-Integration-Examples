@@ -56,3 +56,9 @@ Thumbs.db
 .phpunit.result.cache
 .php-cs-fixer.cache
 
+
+# Java Components
+/java-client/target/
+/java-client/.idea/
+*.class
+
