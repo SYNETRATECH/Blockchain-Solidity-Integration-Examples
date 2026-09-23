@@ -62,3 +62,7 @@ Thumbs.db
 /java-client/.idea/
 *.class
 
+
+# Node Client
+/node-client/dist/
+
